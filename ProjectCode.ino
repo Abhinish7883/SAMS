@@ -4,6 +4,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>
 
+
 #define DHTTYPE DHT22  
 #define DHTPIN 4
 LiquidCrystal_I2C lcd(0x27, 16, 2);
