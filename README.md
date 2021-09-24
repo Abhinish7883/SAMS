@@ -8,4 +8,5 @@ The aims of the project is making agriculture smart using automation and IOT tec
  
         - Arduino IDE, Arduino kit
         - VS Code
-  
+ #
+  Refer to REPORT.pdf for detailed implementation.
